@@ -11,7 +11,7 @@ public class Main {
 
             // Press Mayús+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+8.
-            System.out.println("sarandonga");
+            System.out.println("sarandonganos vamosa  comer");
         }
     }
 }
