@@ -8,7 +8,7 @@ public class Main {
 
         // Press Mayús+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
-//Vamos a tener música ligera los viernes
+//Vamos a tener música ligera los viernes. AHora ya no escribimos en papel.
             System.out.println("sarandonganos vamosa  comerSarandongayarrozconbacalao.");
         }
     }
